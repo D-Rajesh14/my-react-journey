@@ -12,6 +12,7 @@ function App() {
     <h1>Healthy Food</h1>
     <ErrorMessaage></ErrorMessaage>
    <FoodItems></FoodItems>
+   
 </>
   );
 }
